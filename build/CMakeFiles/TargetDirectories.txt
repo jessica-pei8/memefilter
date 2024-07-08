@@ -1,0 +1,3 @@
+C:/Users/jessi/OneDrive/Desktop/projects/memefilter/build/CMakeFiles/memefilter.dir
+C:/Users/jessi/OneDrive/Desktop/projects/memefilter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jessi/OneDrive/Desktop/projects/memefilter/build/CMakeFiles/ZERO_CHECK.dir
