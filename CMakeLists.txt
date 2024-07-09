@@ -1,7 +1,9 @@
 cmake_minimum_required(VERSION 3.10)
 project(memefilter)
 
-set(OpenCV_DIR "C:/Users/jessi/OneDrive/Desktop/projects/opencv/build")  # Adjust this path as per your installation
+set(OpenCV_DIR "C:/Users/jessi/OneDrive/Desktop/projects/opencv/build")
+
+list(APPEND CMAKE_PREFIX_PATH ${OpenCV_DIR})
 
 find_package(OpenCV REQUIRED)
 
